@@ -1,3 +1,1 @@
-<?
-echo "OLA";
-?>
+<? echo "Olá mundo!!!"; ?>
